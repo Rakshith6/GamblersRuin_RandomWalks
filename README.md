@@ -1,5 +1,5 @@
 # GamblersRuin_RandomWalks
-Simulating gamblers ruin using random walks in a game of roulette.
+Simulating gamblers ruin in a game of roulette using random walks.
 
 The gambler starts with money in hand. He decides to bet 1 dollar on either red or black for every spin of the roulette. If he wins on that spin he wins a dollar and on the contrary he loses the dollar. He stops playing when he runs out of money or when he reaches a goal money. He repeats this a number of times to determine the odds of winning the goal amount.
 
